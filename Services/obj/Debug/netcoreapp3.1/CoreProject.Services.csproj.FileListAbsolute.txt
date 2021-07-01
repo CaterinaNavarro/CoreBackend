@@ -1,0 +1,17 @@
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Services.deps.json
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Services.runtimeconfig.json
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Services.runtimeconfig.dev.json
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Services.dll
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Services.pdb
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Data.dll
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Models.dll
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Data.pdb
+C:\Users\Cate\source\repos\Services\bin\Debug\netcoreapp3.1\CoreProject.Models.pdb
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.csproj.AssemblyReference.cache
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.AssemblyInfoInputs.cache
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.AssemblyInfo.cs
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.csproj.CopyComplete
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.dll
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.pdb
+C:\Users\Cate\source\repos\Services\obj\Debug\netcoreapp3.1\CoreProject.Services.genruntimeconfig.cache

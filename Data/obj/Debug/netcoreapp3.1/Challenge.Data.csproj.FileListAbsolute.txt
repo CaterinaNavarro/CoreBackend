@@ -1,0 +1,15 @@
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\Challenge.Data.deps.json
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\Challenge.Data.dll
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\Challenge.Data.pdb
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\Challenge.Models.dll
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\Challenge.Models.pdb
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.csproj.AssemblyReference.cache
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.AssemblyInfoInputs.cache
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.AssemblyInfo.cs
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.csproj.CopyComplete
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.dll
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.pdb
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\Challenge.Data.runtimeconfig.json
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\Challenge.Data.runtimeconfig.dev.json
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\Challenge.Data.genruntimeconfig.cache

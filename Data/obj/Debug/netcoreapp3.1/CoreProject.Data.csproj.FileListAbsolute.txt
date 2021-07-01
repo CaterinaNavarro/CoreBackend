@@ -1,0 +1,15 @@
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\CoreProject.Data.deps.json
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\CoreProject.Data.runtimeconfig.json
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\CoreProject.Data.runtimeconfig.dev.json
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\CoreProject.Data.dll
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\CoreProject.Data.pdb
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\CoreProject.Models.dll
+C:\Users\Cate\source\repos\Data\bin\Debug\netcoreapp3.1\CoreProject.Models.pdb
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.csproj.AssemblyReference.cache
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.AssemblyInfoInputs.cache
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.AssemblyInfo.cs
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.csproj.CopyComplete
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.dll
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.pdb
+C:\Users\Cate\source\repos\Data\obj\Debug\netcoreapp3.1\CoreProject.Data.genruntimeconfig.cache

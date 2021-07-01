@@ -1,0 +1,12 @@
+C:\Users\Cate\source\repos\Models\bin\Debug\netcoreapp3.1\CoreProject.Models.deps.json
+C:\Users\Cate\source\repos\Models\bin\Debug\netcoreapp3.1\CoreProject.Models.runtimeconfig.json
+C:\Users\Cate\source\repos\Models\bin\Debug\netcoreapp3.1\CoreProject.Models.runtimeconfig.dev.json
+C:\Users\Cate\source\repos\Models\bin\Debug\netcoreapp3.1\CoreProject.Models.dll
+C:\Users\Cate\source\repos\Models\bin\Debug\netcoreapp3.1\CoreProject.Models.pdb
+C:\Users\Cate\source\repos\Models\obj\Debug\netcoreapp3.1\CoreProject.Models.csproj.AssemblyReference.cache
+C:\Users\Cate\source\repos\Models\obj\Debug\netcoreapp3.1\CoreProject.Models.AssemblyInfoInputs.cache
+C:\Users\Cate\source\repos\Models\obj\Debug\netcoreapp3.1\CoreProject.Models.AssemblyInfo.cs
+C:\Users\Cate\source\repos\Models\obj\Debug\netcoreapp3.1\CoreProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Cate\source\repos\Models\obj\Debug\netcoreapp3.1\CoreProject.Models.dll
+C:\Users\Cate\source\repos\Models\obj\Debug\netcoreapp3.1\CoreProject.Models.pdb
+C:\Users\Cate\source\repos\Models\obj\Debug\netcoreapp3.1\CoreProject.Models.genruntimeconfig.cache
